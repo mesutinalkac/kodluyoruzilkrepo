@@ -5,11 +5,11 @@ Kodluyoru Front-End kapsamında açtığım ilk repo
 
 öncelikle projeyi clonelayn 
 
- [git klone] (https://github.com/mesutinalkac/kodluyoruzilkrepo.git)
+ `git klone (https://github.com/mesutinalkac/kodluyoruzilkrepo.git)`
 
 
  ## Usage
  projeyi cloneladıktantan sonra vs code programında açınız
 
  linux için
- 
+
